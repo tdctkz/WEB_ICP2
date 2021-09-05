@@ -198,3 +198,9 @@ footer a:hover {
   height:120px;
   width:120px
 }
+
+.flex-item:before {
+  content:'';
+  float:center;
+  padding-top:100%;
+}
