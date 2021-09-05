@@ -1,16 +1,10 @@
-/* CSS for Parent element */
-.flex_container {
-    padding: 0;
-    margin: 0;
+.grid {
     display: flex;
-    width: 100%;
-    align-items: center;
     justify-content: center;
 }
-/* CSS for Child element */
-.flex_item {
-    margin: 1px;
-    text-align: center;
+.g {
+    margin: 2px;
+    color: white;
     height:70px;
-    width:70px
+    width:70px;
 }
